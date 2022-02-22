@@ -3,6 +3,8 @@ import Head from 'next/head'
 export default function Home() {
 
   return (
+    <>
+    <div className="cont">
     <div id="bodyy" className="flex flex-col items-center justify-center min-h-screen py-2">
       <Head>
         <title>Boring Bananas Company</title>
@@ -180,5 +182,7 @@ bananas out known to man." key="twdesc" />
               </div>  */} 
           </div>  
     </div>  
+    </div>
+    </>
     )
   }
