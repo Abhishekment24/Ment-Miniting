@@ -19,7 +19,14 @@ font-weight: 300;
 font-style: regular;
 font-display: swap;
 }
-
+.cont{
+    width: 100%;
+    min-width: 600px;
+}
+.conts {
+    width: 100%;
+    min-width: 485px;
+}
 
 #bodyy {
     background-image: url('/images/BG2.jpg');
