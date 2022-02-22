@@ -138,11 +138,11 @@ bananas out known to man." key="twdesc" />
               <a href="/#about" className="text-4xl text-white hover:text-black m-6">About</a>
               <a href="/mint" className="text-4xl text-white hover:text-black m-6">Mint!</a>
               <a href="/#traits" className="text-4xl text-white hover:text-black m-6">Banana traits</a>
-              <a href="/#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
+             {/* <a href="/#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
               <a href="/#team" className="text-4xl text-white hover:text-black m-6">Team</a>
-              <a href="/#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>
-              <a href="https://twitter.com/boringbananasco" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
-              <a href="https://discord.gg/8Wk9Hp6UyV" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
+              <a href="/#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>*/}
+              <a href="#" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
+              <a href="#" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
             </nav>
              
           </div>
