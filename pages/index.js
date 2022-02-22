@@ -33,11 +33,11 @@ bananas out known to man." key="twdesc" />
               <a href="#about" className="text-4xl text-white hover:text-black m-6">About</a>
               <a href="/mint" className="text-4xl text-white hover:text-black m-6">MINT!</a>
               <a href="#traits" className="text-4xl text-white hover:text-black m-6">Banana traits</a>
-              <a href="#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
+            {/*   <a href="#roadmap" className="text-4xl text-white hover:text-black m-6">Roadmap</a>
               <a href="#team" className="text-4xl text-white hover:text-black m-6">Team</a>
-              <a href="#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>
-              <a href="https://twitter.com/boringbananasco" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
-              <a href="https://discord.gg/8Wk9Hp6UyV" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
+              <a href="#contact" className="text-4xl text-white hover:text-black m-6">Contact</a>*/}
+              <a href="" className="text-4xl  hover:text-white m-6 text-blau">TWITTER</a>
+              <a href="" className="text-4xl  hover:text-white m-6 text-blau">DISCORD</a>
             </nav>
              
           </div>
@@ -111,7 +111,7 @@ bananas out known to man." key="twdesc" />
               <p className="text-xl text-white text-center my-6  montserrat"> Simple. To be the largest contributor to charity in the NFT space, as measured by % <span className="font-bold"> of primary sales. </span>  
               </p>
               <h2 className="text-7xl text-center Poppitandfinchsans text-blau my-4">HOW WE'RE GIVING BACK</h2>
-              <p className="text-xl text-white my-6  montserrat">Ever since the inception of the <span className="text-5xl Poppitandfinch ">boring</span> <span className="text-blau text-5xl Poppitandfinchsans">Bananas</span> <span className="text-5xl Poppitandfinch">company</span> after <a target="_blank" href="https://twitter.com/thedigitalvee/status/1405896585142280192" className="underline text-black font-bold">this tweet</a>, our goal has been to <span className="text-blau text-5xl Poppitandfinchsans">GIVE BACK</span> as much as possible.
+              <p className="text-xl text-white my-6  montserrat">Ever since the inception of the <span className="text-5xl Poppitandfinch ">boring</span> <span className="text-blau text-5xl Poppitandfinchsans">Bananas</span> <span className="text-5xl Poppitandfinch">company</span> after <a href="#" className="underline text-black font-bold">this tweet</a>, our goal has been to <span className="text-blau text-5xl Poppitandfinchsans">GIVE BACK</span> as much as possible.
               </p>
               <p className="text-xl text-white my-6  montserrat"> A minimum of 
               <span className="font-bold"> 25% of all sales</span> are donated to charity. 
@@ -120,7 +120,7 @@ bananas out known to man." key="twdesc" />
               </p>      
               <h2 className="text-6xl text-center Poppitandfinchsans text-blau my-4">ROADMAP</h2>
               <ul className="">
-                <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 4 x 10 ETH donations: </span> The first of these will be made to <a target="_blank" href="https://girlswhocode.com/" className="underline text-black font-bold">Girls Who Code</a>, working to empower young women and <span className="font-bold"> close the gender gap </span> in technology. We know women are unrepresented in the NFT space - lets help to fix this! The remaining donations will be made via community vote using <a target="_blank" href="https://thegivingblock.com/" className="underline text-black font-bold">the Giving Block</a>.</li>
+                <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 4 x 10 ETH donations: </span> The first of these will be made to <a href="#" className="underline text-black font-bold">Girls Who Code</a>, working to empower young women and <span className="font-bold"> close the gender gap </span> in technology. We know women are unrepresented in the NFT space - lets help to fix this! The remaining donations will be made via community vote using <a href="#" className="underline text-black font-bold">the Giving Block</a>.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> 20 ETH to Community Wallet: </span> Directed towards supporting creators that want to make a positive contribution to the NFT space.</li>
                 <li className="text-xl text-white my-6  montserrat"><span className="font-bold"> Secondary sales: 5% royalty </span> (2.5% donation, 2.5% to the team). Secondary sales are directed towards charities voted on by the community monthly.</li>
 
@@ -139,31 +139,31 @@ bananas out known to man." key="twdesc" />
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/Vee.png" width="360px" alt="" className="cards-image" /></div>
                     <h3 className="my-4 text-center text-5xl text-center Poppitandfinchsans text-blau">Vee</h3>
-                    <a href="https://twitter.com/thedigitalvee" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@thedigitalvee)</a>
+                 {/*   <a href="https://twitter.com/thedigitalvee" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@thedigitalvee)</a>*/}
                   </div>
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/MJ.png" width="360px" alt="" className="cards-image" /></div>
                     <h3 className="my-4 text-center text-5xl text-center Poppitandfinchsans text-blau">MJDATA</h3>
-                    <a href="https://twitter.com/champagneman" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@champagneman)</a>                </div>
+                  {/*     <a href="https://twitter.com/champagneman" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@champagneman)</a>  */}              </div>
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/MB.png" width="360px" alt="" className="cards-image" /></div>
                     <h3 className="my-4 text-center text-5xl text-center Poppitandfinchsans text-blau">MADBOOGIE</h3>
-                    <a href="https://twitter.com/madboogieart" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@madboogieart)</a>                </div>
+                   {/*   <a href="https://twitter.com/madboogieart" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@madboogieart)</a>  */}              </div>
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/Jui.png" width="360px" alt="" className="cards-image" /></div>
                     <h3 className="my-4 text-center text-5xl text-center Poppitandfinchsans text-blau">Jui</h3>
-                    <a href="https://twitter.com/mz09art" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@mz09art)</a>                </div>
+                    {/*   <a href="https://twitter.com/mz09art" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@mz09art)</a>  */}              </div>
                   <div className="flex flex-col  my-6" style={{width:"360px"}}>
                     <div className="cards-image-mask"><img src="/images/Berk.png" width="360px" alt="" className="cards-image" /></div>
                     <h3 className="my-4 text-center text-5xl text-center Poppitandfinchsans text-blau">BERK</h3>
-                    <a href="https://twitter.com/berkozdemir" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@berkozdemir)</a>                </div>
+                    {/*   <a href="https://twitter.com/berkozdemir" className="text-center text-4xl text-center Poppitandfinchsans underline text-white"> (@berkozdemir)</a>  */}              </div>
                 
                 </div>
        
 
 
               </div>   
-              <div id="contact" className="flex flex-wrap justify-around items-center  mx-6 py-6">
+             {/* <div id="contact" className="flex flex-wrap justify-around items-center  mx-6 py-6">
                   <div className=" p-4"><img src="images/letstalk.png" alt="" width="400px" className="feature-image"/></div>
                   <div className="flex flex-col justify-between mx-6 sm:w-1/2 w-4/5 py-6 ">
                     <h2 className="text-blau Poppitandfinchsans text-6xl text-center">CONTACT BANANA RESEARCH TEAM</h2>
@@ -177,7 +177,7 @@ bananas out known to man." key="twdesc" />
        
 
 
-              </div>   
+              </div>  */} 
           </div>  
     </div>  
     )
